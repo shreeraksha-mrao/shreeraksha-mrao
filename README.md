@@ -1,7 +1,7 @@
 # Hey, My name is Raksha 👋  
 ### 🚀 Software Developer  
 
-![Banner Image](your-image-url-here)  
+![Banner Image](https://imgur.com/a/5Hh3c23)  
 
 📌 **Portfolio:** [raksha-rao.vercel.app](https://raksha-rao.vercel.app/)  
 📝 **Blogs:** [raksha-rao.vercel.app/blogs](https://raksha-rao.vercel.app/blogs)  
