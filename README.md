@@ -39,4 +39,3 @@
 
 ---
 
-Would you like to add **GitHub stats** or a **Rotaract logo badge**? Let me know! 🚀🏎️💙  
