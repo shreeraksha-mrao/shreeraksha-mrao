@@ -7,7 +7,9 @@
 📝 **Blogs:** [raksha-rao.vercel.app/blogs](https://raksha-rao.vercel.app/blogs)  
 📧 **How to reach me:** shreeraksha.mrao@gmail.com  
 
-💡 **Fun Fact:** I love adventures and sports! 🏔️⚽  
+💡 **About Me:**  
+🏎️ I enjoy **F1 racing** and the thrill of speed!  
+🤝 A proud **Rotaract member**, passionate about **community service** and making a difference.  
 
 ---
 
@@ -37,4 +39,4 @@
 
 ---
 
-Would you like me to add GitHub stats or any other customizations? 🚀
+Would you like to add **GitHub stats** or a **Rotaract logo badge**? Let me know! 🚀🏎️💙  
