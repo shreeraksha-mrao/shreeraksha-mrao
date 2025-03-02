@@ -1,5 +1,5 @@
 # Hey, My name is Raksha 👋  
-### 🚀 Software Developer  
+### Software Developer  
 
 ![Banner Image](https://i.imgur.com/JgQqgQs.png)
 
